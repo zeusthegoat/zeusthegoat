@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zeusthegoat
 - 👀 I’m interested in gaming, football (not soccer), bbq'ing
-- 🌱 I’m currently learning react, angular, typescript
-- 😄 Pronouns: hje/him/goat
+- 😄 Pronouns: he/him/goat
 - ⚡ Fun fact: I finished Jedi Survivor.. thrice
 
 <!---
